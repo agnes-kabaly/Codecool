@@ -2,7 +2,7 @@ Hello World!
 
 It is a script file that welcomes the user given to it. If no name was given, then it welcomes the whole world.
 
-Expected Console Output:
+Expected Console Output (e.g.):
 
 user@computer:~$ python hello.py
 
